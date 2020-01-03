@@ -1,4 +1,4 @@
-# Long term Unemployement statistics Using Microsoft Power BI
+# Long term Unemployement statistics Using Ms Power BI
 
 ## Table Of Contents
 * About The Project
@@ -23,7 +23,7 @@ The Dataset of Unemployment for few years is taken to visualize:
 ** Depicting visuals using drill down and expand functions.
 
 #### Average Unemployed people thorughout years
-![Average Unemployed people thorughout years](https://github.com/mukulgoyal19/Office-Supplies-MS-Power-BI-/blob/master/insights/units%20per%20year.PNG)
+![Average Unemployed people thorughout years]()
 * Area chart depicting Average Unemployed people thorughout years.
 
 #### to find which year has most unemployed people
