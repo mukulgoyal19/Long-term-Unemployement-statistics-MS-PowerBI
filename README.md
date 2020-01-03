@@ -12,30 +12,31 @@
 
 ### Introduction
 
-The Dataset of a company Sales and target is taken to visualize:
-  * Total sales By Region
-  * Total sales by each employee
-  * Who sold maximum Units by region
-  * No.of units each day, month, quater and a year
+The Dataset of Unemployment for few years is taken to visualize:
+  * Average Unemployed people thorughout years
+  * To find which year has most unemployed people
+  * Which age group lies in most Unemployed section in year 2010
+  * Average Unemployed people thorughout years with gender specific
     
 ### Insights
 
 ** Depicting visuals using drill down and expand functions.
 
-#### No.of units each day, month, quater and a year
-![No.of units each day, month, quater and a year](https://github.com/mukulgoyal19/Office-Supplies-MS-Power-BI-/blob/master/insights/units%20per%20year.PNG)
-![No.of units each day, month, quater and a year](https://github.com/mukulgoyal19/Office-Supplies-MS-Power-BI-/blob/master/insights/units%20per%20quater.PNG)
-![No.of units each day, month, quater and a year](https://github.com/mukulgoyal19/Office-Supplies-MS-Power-BI-/blob/master/insights/units%20per%20months.PNG)
-![No.of units each day, month, quater and a year](https://github.com/mukulgoyal19/Office-Supplies-MS-Power-BI-/blob/master/insights/units%20per%20period.PNG)
-* Histogram depicting No.of units each day, month, quater and a year.
+#### Average Unemployed people thorughout years
+![Average Unemployed people thorughout years](https://github.com/mukulgoyal19/Office-Supplies-MS-Power-BI-/blob/master/insights/units%20per%20year.PNG)
+* Area chart depicting Average Unemployed people thorughout years.
 
-#### Who sold maximum Units by region
-![Who sold maximum Units by region](https://github.com/mukulgoyal19/Office-Supplies-MS-Power-BI-/blob/master/insights/units%20per%20region.PNG)
-* Histogram depicting Who sold maximum Units by region.
+#### to find which year has most unemployed people
+![to find which year has most unemployed people]()
+* Area chart depicting to find which year has most unemployed people.
 
-#### Total sales By Region & Employee
-![Total sales By Region & Employee](https://github.com/mukulgoyal19/Office-Supplies-MS-Power-BI-/blob/master/insights/total%20sales%20per%20region%20and%20person.PNG)
-* Histogram depicting Total sales By Region & Employee.
+#### Which age group lies in most Unemployed section in year 2010
+![Which age group lies in most Unemployed section in year 2010]()
+* Area chart depicting Which age group lies in most Unemployed section in year 2010.
+
+#### Average Unemployed people thorughout years with gender specific
+![Average Unemployed people thorughout years with gender specific]()
+* Area Chart depicting Average Unemployed people thorughout years with gender specific.
 
 ## Getting Started
 
